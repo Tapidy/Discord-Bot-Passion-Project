@@ -17,7 +17,7 @@ userAgent = 'Passion Project Bot'
 
 cID = 'MA9it9NnaAuKdQ'
 
-cSC= 'yk952A4ExUpF1bPVuQHOWQfOSte52A'
+cSC= '//Your own cSC token//'
 
 userN = '//insert username here//'
 
